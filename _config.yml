@@ -1,8 +1,8 @@
 # Site settings
 title: AoWen Blog
+myname: AoWen
 SEOTitle: 敖文的博客 | AoWen Blog
 header-img: img/home-bg.jpg
-header-img1: "img/in-post/master-three-years/1.jpg"
 email: aooquan@gmail.com
 description: "技术爱好者、爱读书 | 敖文 | 这里是 @AoWen敖文 的个人博客，与你分享世界。"
 keyword: "敖文, AoWen, @aowen, 敖文的博客, 博客, 个人网站, 互联网, 操作系统"
@@ -13,7 +13,7 @@ baseurl: ""                         # for example, '/blog' if your blog hosted o
 
 # SNS settings
 RSS: false
-weibo_username:     LittleGe
+weibo_username:     5457665126
 zhihu_username:     敖文
 github_username:    aoquan
 twitter_username:   AooQuan

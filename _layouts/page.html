@@ -204,12 +204,12 @@ layout: default
 
 <script type="text/javascript">
     var i = 0;
-    var imgs = ['/img/in-post/master-three-years/1.jpg','/img/home-bg.jpg','/img/post-bg-2015.jpg'];
+    var imgs = ['/img/in-post/master-three-years/1.jpg','/img/bg.jpg'];
     function showBkg(){
         var slides = document.getElementById("head-bkg");
         slides.style.backgroundImage="url('"+imgs[i]+"')";
         i=(i+1)%imgs.length;
-        setTimeout(showBkg, 15000);
+        setTimeout(showBkg, 10000);
     }   
     showBkg();
 </script>
